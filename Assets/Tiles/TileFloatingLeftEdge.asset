@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: TileFloatingLeftEdge
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 21300000, guid: cbb2fe4d69e24da4db5d9340b9a78b41, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5619217, g: 0.3066038, b: 1, a: 1}
   m_Transform:
     e00: 1
     e01: 0
